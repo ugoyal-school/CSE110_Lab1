@@ -4,7 +4,7 @@ My name is **Unnati Goyal** and I am currently a **Sophmore**. Some of my favori
 *dancing*, *badminton*, and *hanging out with friends*. 
 
 Here are a picture of me! 
-![Picture](C:\Users\14252\Desktop\Ankita (3).tif)
+![Picture](C:\Users\14252\Desktop\CSE110_Lab1\1723102509095.jpg)
 
 I started coding in middle school and then continued all throughout high school. Within college, I have done 2 projects. You can view them in the [Project Section](#projects)
 
